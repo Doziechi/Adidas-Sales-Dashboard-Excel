@@ -8,9 +8,6 @@
 - [Tool Used](#tool-used)
 
 
-
-
-
 ### Project Overview
  Adidas Sales Dashboard (Excel)  Interactive Excel dashboard analyzing Adidas global sales to uncover profitability insights. Visualizes revenue by region, category, and retailer — helping identify top performers, reduce excess inventory, and improve marketing efficiency.
 
@@ -58,6 +55,10 @@ The outcome is an interactive Excel dashboard that enables real-time insight int
    - Detected profit margin variations across product categories, helping management adjust pricing, prioritize profitable items, and reallocate marketing budgets toward higher-margin products.
    - Uncovered underperforming categories and regions, offering opportunities to optimize inventory distribution and reduce excess supply costs.
    - Enhanced overall visibility into sales and profit metrics, enabling data-driven decisions that can increase revenue and operational efficiency.
+   - California ($60.17M) and Florida ($59.28M) ranked as the top-performing states, together contributing over 20% of total U.S. sales.
+   - Colorado ($21M) and Georgia ($19M) showed strong growth, highlighting opportunities for targeted promotions and retail expansion.
+   - Arkansas, Delaware, and Connecticut recorded lower sales (<$13M), revealing underpenetrated markets that could benefit from increased marketing visibility.
+   - Across sales channels, In-store ($356.64M) led performance, followed by Outlet ($295.59M) and Online ($247.67M) — indicating physical retail remains a strong revenue driver while e-commerce shows growing potential.
      
 ### Tool Used
 - Microsoft Excel [Download Here](microsoft.com)
